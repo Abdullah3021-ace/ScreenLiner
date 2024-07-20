@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.screenprank'
+    namespace 'com.droid.dynamo.screen.line.prank'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.screenprank"
+        applicationId "com.droid.dynamo.screen.line.prank"
         minSdk 24
         targetSdk 34
         versionCode 1

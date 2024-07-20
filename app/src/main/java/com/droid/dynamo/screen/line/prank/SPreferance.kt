@@ -1,4 +1,4 @@
-package com.example.screenprank
+package com.droid.dynamo.screen.line.prank
 
 import android.content.Context
 

@@ -1,4 +1,4 @@
-package com.example.screenprank
+package com.droid.dynamo.screen.line.prank
 
 import android.Manifest
 import android.app.ActivityManager
@@ -22,8 +22,8 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.cardview.widget.CardView
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.app.ActivityCompat
-import com.example.screenprank.SharedVars.TAG
-import com.example.screenprank.databinding.ActivityMainBinding
+import com.droid.dynamo.screen.line.prank.SharedVars.TAG
+import com.droid.dynamo.screen.line.prank.databinding.ActivityMainBinding
 import top.defaults.colorpicker.ColorPickerPopup
 import top.defaults.colorpicker.ColorPickerPopup.Builder
 
